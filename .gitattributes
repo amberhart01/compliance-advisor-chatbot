@@ -1,6 +1,6 @@
 *.bin filter=lfs diff=lfs merge=lfs -text
-*.sqlite3 filter=lfs diff=lfs merge=lfs -text
 *.pickle filter=lfs diff=lfs merge=lfs -text
+*.sqlite3 filter=lfs diff=lfs merge=lfs -text
 chromadb/** filter=lfs diff=lfs merge=lfs -text
 nist_index/** filter=lfs diff=lfs merge=lfs -text
 policy_index/** filter=lfs diff=lfs merge=lfs -text

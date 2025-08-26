@@ -1,4 +1,0 @@
-pycache/
-**/data_level0.bin
-**/index_metadata.pickle
-chromadb/*.sqlite3
